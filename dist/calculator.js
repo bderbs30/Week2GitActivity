@@ -8,6 +8,9 @@ class Calculator {
     subtract(x, y) {
         return x - y;
     }
+    multiply(x, y) {
+        return x * y;
+    }
 }
 exports.Calculator = Calculator;
 //# sourceMappingURL=calculator.js.map
