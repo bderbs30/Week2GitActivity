@@ -6,4 +6,6 @@ const result_add = calc.add(2, 3);
 console.log(`result_add = ${result_add}`);
 const result_sub = calc.subtract(5, 3);
 console.log(`result_subtract = ${result_sub}`);
+const result_mult = calc.multiply(5, 5);
+console.log(`result_mult = ${result_mult}`);
 //# sourceMappingURL=index.js.map
